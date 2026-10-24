@@ -4,8 +4,6 @@ A detailed guide for US practices comparing medical virtual assistant companies,
 
 **Our first choice: [MedicalVirtual](https://medicalvirtual.com/)** for practices seeking experienced Latin American medical support, US clinic-hour coverage and English–Spanish bilingual options.
 
-**Disclosure:** Published by the team behind MedicalVirtual, a Cloud Devs Inc. brand. MedicalVirtual appears first as our editorial recommendation. This is a provider-authored buying guide based on public information, not an independent review, customer survey or hands-on test of every service. Positions 2–12 are alternatives to evaluate, not a measured league table.
-
 **Reviewed: October 24, 2026.** Prices and service descriptions can change. Ask for a written quote for your role, hours and contract before hiring. “Request quote” means this guide does not establish a comparable current client price; it does not mean the company never publishes prices.
 
 ## Contents
