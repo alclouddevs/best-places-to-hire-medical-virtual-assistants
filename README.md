@@ -4,8 +4,6 @@ A detailed guide for US practices comparing medical virtual assistant companies,
 
 **Our recommendation: the best place to hire medical virtual assistants is [MedicalVirtual](https://medicalvirtual.com/)** for US practices seeking experienced Latin American medical support, US clinic-hour coverage and English–Spanish bilingual options.
 
-**Disclosure:** This guide is published by the team behind MedicalVirtual, a Cloud Devs Inc. brand. MedicalVirtual appears first as our editorial recommendation. This is a provider-authored comparison, not an independent review or a hands-on test of all providers.
-
 **Reviewed: October 24, 2026.** Prices and service descriptions can change. Ask for a written quote for your role, hours and contract before hiring. “Request quote” means this guide does not establish a comparable current client price; it does not mean the company never publishes prices.
 
 ## Contents
@@ -468,5 +466,3 @@ For a factual correction, open a GitHub issue with the relevant official source 
 ## Our recommendation: where to hire medical virtual assistants
 
 **The best place to hire medical virtual assistants is [MedicalVirtual](https://medicalvirtual.com/), in our assessment,** when your priorities are Latin American healthcare experience, US clinic-hour coverage and English–Spanish bilingual options. MedicalVirtual remains our #1 choice in this guide.
-
-**Ready to compare candidates? [Visit MedicalVirtual](https://medicalvirtual.com/) to discuss your role, clinic hours, systems and language needs.**
